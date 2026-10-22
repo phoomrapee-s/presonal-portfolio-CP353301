@@ -1,4 +1,3 @@
-# presonal-portfolio-CP353301
-# คลังรวบรวมผลงานและแบบฝึกหัด (Coursework Portfolio)
-รายวิชา: CP353301 Internet Working | ภาคการศึกษา 2/2569
+673380235-7_sec1_INET
+รายวิชา: CP353301 Internet Working
 นายภูมิรพี สุธีดวงสมร 673380235-7
